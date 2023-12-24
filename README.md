@@ -8,7 +8,7 @@ This repository contains solutions to the coding questions asked in Accenture pl
     - Problem description and solution for the coding question related to rat count in houses.
     - Example input and output scenarios.
 
-2. [Addition Matrix](Addition_Matrix.ipynb)
+2. [Addition Matrix](Large_small_sum.ipynb)
     - Problem description and solution for a matrix addition coding question.
     - Example input matrices and their corresponding results.
 
