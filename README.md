@@ -12,9 +12,9 @@ This repository contains solutions to the coding questions asked in Accenture pl
     - Problem description and solution for a matrix addition coding question.
     - Example input matrices and their corresponding results.
 
-3. [String Reversal](String_Reversal.ipynb)
-    - Solution for reversing a string coding question.
-    - Example strings and their reversed forms.
+3. [Password Checker](Passoword_checker.ipynb)
+    - Solution for checking if the password is valid or not.
+    - Example input matrices and their corresponding results.
 
 ## Usage
 
