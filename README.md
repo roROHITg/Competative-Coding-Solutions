@@ -12,7 +12,7 @@ This repository contains solutions to the coding questions asked in Accenture pl
     - Problem description and solution for a matrix addition coding question.
     - Example input matrices and their corresponding results.
 
-3. [Password Checker](Passoword_checker.ipynb)
+3. [Password Checker](Password_checker.ipynb)
     - Solution for checking if the password is valid or not.
     - Example input matrices and their corresponding results.
 
