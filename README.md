@@ -1,6 +1,6 @@
-# Accenture Placements Coding Questions
+# Competative Coding Questions and Solutions
 
-This repository contains solutions to the coding questions asked in Accenture placements. The solutions are provided in Jupyter Notebook (.ipynb) format for easy understanding and execution.
+This repository contains solutions to the coding questions. The solutions are provided in Jupyter Notebook (.ipynb) format for easy understanding and execution.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ This repository contains solutions to the coding questions asked in Accenture pl
 2. Open the files using Jupyter Notebook or any compatible tool.
 3. Run the cells to see the solutions and test the examples.
 
-Feel free to explore, learn, and contribute! If you have more Accenture placement questions and solutions, you are welcome to add them to this repository.
+Feel free to explore, learn, and contribute! If you have more questions and solutions, you are welcome to add them to this repository.
 
 ## Contributing
 
